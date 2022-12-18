@@ -1,0 +1,14 @@
+{
+  "name": "EL",
+  "abkuerzung": true,
+  "ausgeschrieben": "Esslöffel",
+  "umrechnungen": [{
+    "nach": "TL",
+    "umrechnung": 3
+  },{
+    "nach": "ml",
+    "umrechnung": 15
+  }],
+  "timestamp": "2022-11-22 14:57:43",
+  "_id": 6
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TL",
+  "abkuerzung": true,
+  "ausgeschrieben": "Teelöffel",
+  "umrechnungen": [{
+    "nach": "EL",
+    "umrechnung": 0.3333333333333
+  },{
+    "nach": "ml",
+    "umrechnung": 5
+  }],
+  "timestamp": "2022-11-22 14:57:43",
+  "_id": 5
+}

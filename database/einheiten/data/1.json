@@ -1,0 +1,11 @@
+{
+  "name": "g",
+  "abkuerzung": true,
+  "ausgeschrieben": "Gramm",
+  "umrechnungen": [{
+    "nach": "kg",
+    "umrechnung": 0.001
+  }],
+  "timestamp": "2022-11-22 14:57:43",
+  "_id": 1
+}

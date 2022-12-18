@@ -1,0 +1,11 @@
+{
+  "name": "ml",
+  "abkuerzung": true,
+  "ausgeschrieben": "Milliliter",
+  "umrechnungen": [{
+    "nach": "l",
+    "umrechnung": 0.001
+  }],
+  "timestamp": "2022-11-22 14:57:43",
+  "_id": 3
+}

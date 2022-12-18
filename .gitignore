@@ -1,2 +1,6 @@
 # Vercel
 .vercel
+
+database/einheiten/cache/
+database/rezepte/cache/
+database/userdata/cache/

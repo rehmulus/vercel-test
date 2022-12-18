@@ -1,0 +1,58 @@
+[{
+  "name": "g",
+  "abkuerzung": true,
+  "ausgeschrieben": "Gramm",
+  "umrechnungen": [{
+    "nach": "kg",
+    "umrechnung": 0.001
+  }]
+},{
+  "name": "kg",
+  "abkuerzung": true,
+  "ausgeschrieben": "Kilogramm",
+  "umrechnungen": [{
+    "nach": "g",
+    "umrechnung": 1000
+  }]
+},{
+  "name": "ml",
+  "abkuerzung": true,
+  "ausgeschrieben": "Milliliter",
+  "umrechnungen": [{
+    "nach": "l",
+    "umrechnung": 0.001
+  }]
+},{
+  "name": "l",
+  "abkuerzung": true,
+  "ausgeschrieben": "Liter",
+  "umrechnungen": [{
+    "nach": "ml",
+    "umrechnung": 1000
+  }]
+},{
+  "name": "TL",
+  "abkuerzung": true,
+  "ausgeschrieben": "Teelöffel",
+  "umrechnungen": [{
+    "nach": "EL",
+    "umrechnung": 0.3333333333333
+  },{
+    "nach": "ml",
+    "umrechnung": 5
+  }]
+},{
+  "name": "EL",
+  "abkuerzung": true,
+  "ausgeschrieben": "Esslöffel",
+  "umrechnungen": [{
+    "nach": "TL",
+    "umrechnung": 3
+  },{
+    "nach": "ml",
+    "umrechnung": 15
+  }]
+},{
+  "name": "Zehen",
+  "abkuerzung": false
+}]

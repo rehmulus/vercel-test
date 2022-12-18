@@ -1,0 +1,3 @@
+[submodule "SleekDB"]
+	path = SleekDB
+	url = git@github.com:rakibtg/SleekDB.git

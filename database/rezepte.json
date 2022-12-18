@@ -1,0 +1,3017 @@
+[{
+  "name": "Ajvar Datteldip",
+  "kategorien": "Dip",
+  "bild": "dattel-dip.jpg",
+  "portionen": 10,
+  "steps": [
+    [
+      {
+        "menge": 350,
+        "einheit": "g",
+        "name": "Ajvar"
+      },
+      " und ",
+      {
+        "menge": 600,
+        "einheit": "g",
+        "name": "Frischkäse"
+      },
+      " vermengen"
+    ],
+    [
+      {
+        "mengeMin": 100,
+        "mengeMax": 150,
+        "einheit": "g",
+        "name": "Datteln",
+        "notiz": "eher weiche, fast schon matschige"
+      },
+      " in kleine Würfel hacken und dazugeben"
+    ],
+    [
+      {
+        "mengeMin": 1,
+        "mengeMax": 3,
+        "name": "Knoblauchzehen"
+      },
+      " pressen und dazugeben"
+    ],
+    [
+      "mit ",
+      {
+        "menge": 3,
+        "einheit": "TL",
+        "name": "Oregano"
+      },
+      " und ",
+      {
+        "menge": "nach Bedarf",
+        "name": "Chilli"
+      },
+      " würzen"
+    ],
+    [
+      {
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "name": "Pfeffer"
+      },
+      " abschmecken"
+    ]
+  ]
+},{
+  "name": "Vegane Bolognese",
+  "kategorien": "Sauce",
+  "bild": "vegane-bolognese.jpg",
+  "portionen": 4,
+  "steps": [
+    [
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Zwiebeln"
+      },
+      ", ",
+      {
+        "menge": 50,
+        "einheit": "g",
+        "name": "Sellerie"
+      },
+      " und ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "Karotten"
+      },
+      " würfeln und anbraten"
+    ],
+    [
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "vegetarisches Hack"
+      },
+      " dazugeben und mit ",
+      {
+        "menge": 50,
+        "einheit": "ml",
+        "name": "Rotwein"
+      },
+      " ablöschen"
+    ],
+    [
+      {
+        "menge": 400,
+        "einheit": "ml",
+        "name": "(passierte) Tomaten"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Prise(n)",
+        "name": "Zucker"
+      },
+      " dazugeben"
+    ],
+    [
+      "mit",
+      {
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "name": "Pfeffer"
+      },
+      ", ",
+      {
+        "name": "italienische Kräuter"
+      },
+      "und ",
+      {
+        "name": "Chilli"
+      },
+      " abschmecken"
+    ]
+  ]
+},{
+  "name": "Kokosreis mit Rosenkohl",
+  "kategorien": "Hauptgericht",
+  "links": [
+    "https://claudia-earp.de/kokosnuss-reis-mit-rosenkohl/"
+  ],
+  "bild": "kokos-reis-mit-rosenkohl.jpg",
+  "portionen": 2,
+  "gruppen": ["Sojasauce", "zum Servieren"],
+  "steps": [
+    [
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Reis"
+      },
+      " 20-30 Minuten bei mittlerer Hitze in ",
+      {
+        "menge": 400,
+        "einheit": "ml",
+        "name": "Kokosmilch"
+      },
+      " kochen"
+    ],
+    [
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Rosenkohl"
+      },
+      "halbieren und 10-15 Minuten in ",
+      {
+        "menge": 2,
+        "einheit": "TL",
+        "name": "Kokosöl"
+      },
+      " braten, ",
+      {
+        "menge": "etwas",
+        "name": "Salz"
+      },
+      " hinzufügen "
+    ],[
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Sojasauce"
+      },
+      ", ",
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "name": "Knoblauchzehe"
+      },
+      ", ",
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Limettensaft"
+      },
+      ", ",
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Essig"
+      },
+      ", ",
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Rohrzucker"
+      },
+      ", ",
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Wasser"
+      },
+      " und ",
+      {
+        "gruppe": "Sojasauce",
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Chilliflocken"
+      },
+      " vermischen"
+    ],[
+      {
+        "menge": 1,
+        "name": "Avocado(s)"
+      },
+      " würfeln, ",
+      {
+        "menge": 2,
+        "name": "Frühlingszwiebel(n)"
+      },
+      " in Ringe schneiden"
+    ],[
+      {
+        "gruppe": "zum Servieren",
+        "menge": "etwas",
+        "name": "Basilikum"
+      },
+      " und ",
+      {
+        "gruppe": "zum Servieren",
+        "menge": "etwas",
+        "name": "Minze"
+      },
+      " hacken"
+    ],[
+      "mit ",
+      {
+        "gruppe": "zum Servieren",
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Sesam"
+      },
+      " servieren"
+    ]
+  ]
+},{
+  "name": "Spinat-Lasagne",
+  "kategorien": "Hauptgericht",
+  "bild": "spinat-lasagne.jpg",
+  "portionen": "4",
+  "gruppen": ["Spinat-Schicht", "Tomaten-Schicht"],
+  "steps": [
+    [
+      "Spinat-Schicht: ",
+      {
+        "gruppe": "Spinat-Schicht",
+        "menge": 100,
+        "einheit": "g",
+        "name": "Zwiebeln"
+      },
+      " würfeln, ",
+      {
+        "gruppe": "Spinat-Schicht",
+        "menge": 200,
+        "einheit": "g",
+        "name": "Karotten"
+      },
+      " in (halbe) Scheiben schneiden"
+    ],
+    "Zwiebeln und Karotten anbraten",
+    [
+      {
+        "gruppe": "Spinat-Schicht",
+        "menge": 750,
+        "einheit": "g",
+        "name": "Spinat"
+      },
+      " dazugeben"
+    ],[
+      {
+        "gruppe": "Spinat-Schicht",
+        "menge": 250,
+        "einheit": "g",
+        "name": "Champignons"
+      },
+      " vierteln und dazugeben"
+    ],[
+      {
+        "gruppe": "Spinat-Schicht",
+        "menge": 200,
+        "einheit": "g",
+        "name": "Frischkäse"
+      },
+      " und ",
+      {
+        "gruppe": "Spinat-Schicht",
+        "menge": 1,
+        "name": "Knoblauchzehe(n)"
+      },
+      " dazugeben"
+    ],[
+      "Tomaten-Schicht: ",
+      {
+        "gruppe": "Tomaten-Schicht",
+        "menge": 800,
+        "einheit": "ml",
+        "name": "(passierte) Tomaten"
+      },
+      " mit ",
+      {
+        "gruppe": "Tomaten-Schicht",
+        "menge": 1,
+        "name": "Knoblauchzehe(n)"
+      },
+      " aufkochen"
+    ],[
+      "beide Saucen mit ",
+      {
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "name": "Pfeffer"
+      },
+      " abschmecken"
+    ],[
+      "abwechselnd Spinat und Tomatensauce zwischen ",
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Lasagne-Platten"
+      },
+      " füllen"
+    ],
+    "bei 180 °C ca. 45 Minuten backen"
+  ]
+},{
+  "name": "Pfannkuchen",
+  "kategorien": ["Hauptgericht", "Desert"],
+  "portionen": 2,
+  "links": [
+    "https://www.chefkoch.de/rezepte/1208161226570428/Der-perfekte-Pfannkuchen-gelingt-einfach-immer.html"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 3,
+        "name": "Ei(er)"
+      },
+      " aufschlagen"
+    ],[
+      {
+        "menge": 750,
+        "einheit": "ml",
+        "name": "Milch"
+      },
+      " hinzufügen"
+    ],[
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Prise(n)",
+        "name": "Salz"
+      },
+      " dazugeben"
+    ],
+    "den Teig eine halbe Stunde in den Kühlschrank stellen",
+    [
+      {
+        "menge": 1,
+        "einheit": "Schuss",
+        "name": "Sprudelwasser"
+      },
+      " hinzufügen"
+    ]
+  ]
+},{
+  "name": "Pankakes",
+  "kategorien": ["Hauptgericht", "Desert"],
+  "links": [
+    "https://www.chefkoch.de/rezepte/1785351288608398/Fluffy-Buttermilk-Pancakes.html",
+    "https://www.chefkoch.de/rezepte/1106741216791756/American-Pancakes.html",
+    "https://www.chefkoch.de/rezepte/1205621226313744/Amerikanische-Pancakes.html"
+  ],
+  "bild": "pancakes.jpg",
+  "steps": [
+    [
+      {
+        "menge": 400,
+        "einheit": "ml",
+        "name": "Buttermilch"
+      },
+      " und",
+      {
+        "menge": 2,
+        "name": "Ei(er)"
+      },
+      " gut verquirlen"
+    ],[
+      {
+        "menge": 3,
+        "einheit": "EL",
+        "name": "Butter"
+      },
+      " in einem Topf schmelzen, dann beiseitestellen und ein wenig abkühlen lassen"
+    ],[
+      "in einer anderen Schüssel ",
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Prise(n)",
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Backpulver"
+      },
+      ", ",
+      {
+        "menge": 50,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Pck",
+        "name": "Vanillezucker"
+      },
+      " mischen"
+    ],
+    "alles gut verrühren, warten bis die Pfanne heiß ist",
+    "je Pfannkuchen 2 EL Teig in die mit Fett bestrichene Pfanne geben",
+    [
+      "Heidelbeer-Sauce: ",
+      {
+        "gruppe": "Sauce",
+        "menge": 200,
+        "einheit": "g",
+        "name": "Heidelbeeren"
+      },
+      ", ",
+      {
+        "gruppe": "Sauce",
+        "menge": 25,
+        "einheit": "ml",
+        "name": "Wasser"
+      },
+      ", ",
+      {
+        "gruppe": "Sauce",
+        "menge": 25,
+        "einheit": "ml",
+        "name": "Zucker"
+      },
+      ", ",
+      {
+        "gruppe": "Sauce",
+        "menge": 2,
+        "einheit": "TL",
+        "name": "Stärke"
+      },
+      " und ",
+      {
+        "gruppe": "Sauce",
+        "menge": 5,
+        "einheit": "Tropfen",
+        "name": "Bittermandelaroma"
+      },
+      " in einen Topf geben und zum Kochen bringen",
+      "auf niedriger Stufe ca. 15 Minuten köcheln lassen, bis die Blaubeeren aufplatzen und die Flüssigkeit etwas eingedickt ist",
+      "die Blaubeeren mit der runden Seite eines Esslöffels ein wenig zerdrücken"
+    ]
+  ]
+},{
+  "name": "Champignon-Brechbohnen",
+  "kategorien": "Beilage",
+  "bild": "champignon-brechbohnen.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/2751431427182825/Spaetzle-Bohnenpfanne-mit-Bresso.html"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Champignons"
+      },
+      " anbraten"
+    ],
+    [
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Brechbohnen"
+      },
+      " dazugeben"
+    ],
+    [
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Frischkäse"
+      },
+      " und ",
+      {
+        "menge": 100,
+        "einheit": "ml",
+        "name": "Gemüsebrühe"
+      },
+      " dazugeben"
+    ],
+    [
+      "mit ",
+      {
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "name": "Pfeffer"
+      },
+      "abschmecken"
+    ]
+  ]
+},{
+  "name": "Chilli sin carne",
+  "kategorien": "Hauptgericht",
+  "bild": "chili-sin-carne.jpg",
+  "steps": [
+    [
+      {
+        "menge": 2,
+        "name": "Zwiebel(n)"
+      },
+      " anbraten"
+    ],[
+      {
+        "menge": 3,
+        "name": "Knoblauchzehe(n)"
+      },
+      " gepresst und ",
+      {
+        "menge": 1,
+        "name": "Paprika(s)"
+      },
+      " in Stücken dazugeben und anbraten"
+    ],[
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Kidney-Bohnen"
+      },
+      ", ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Mais"
+      },
+      " und ",
+      {
+        "menge": 800,
+        "einheit": "g",
+        "name": "(passierte) Tomaten"
+      },
+      " hinzufügen"
+    ],[
+      "mit",
+      {
+        "name": "Chillipulver"
+      },
+      ", ",
+      {
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "name": "Paprikapulver"
+      },
+      ", ",
+      {
+        "name": "Cayennepfeffer"
+      },
+      " und ",
+      {
+        "name": "Pfeffer"
+      },
+      " würzen "
+    ]
+  ]
+},{
+  "name": "Vegane Burgerpattys",
+  "kategorien": "Hauptgericht",
+  "links": [
+    "https://tasty.co/recipe/the-best-ever-vegan-burger"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Schwarze Bohnen"
+      },
+      " und ",
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Reis"
+      },
+      " kochen (soll ungefähr je 200 g ergeben)"
+    ],
+    [
+      {
+        "menge": 3,
+        "einheit": "EL",
+        "name": "Rote Beete"
+      },
+      "raspeln oder pürieren und in eine Schüssel überführen"
+    ],
+    [
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Walnüsse"
+      },
+      " und ",
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Pilze"
+      },
+      " kleinhacken oder pürieren"
+    ],[
+      "die Masse mit ",
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Olivenöl"
+      },
+      " anbraten"
+    ],[
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Sojasauce"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Kreuzkümmel"
+      },
+      " dazugeben und weiterbraten bis Flüssigkeit verdampft ist"
+    ],
+    "die Masse in die Schüssel mit der roten Beete geben",
+    [
+      {
+        "menge": 1,
+        "name": "Zwiebel(n)"
+      },
+      "würfeln und glasig anbraten"
+    ],[
+      {
+        "menge": 2,
+        "name": "Knoblauchzehe(n)"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Paprikapulver"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Tomatenmark"
+      },
+      " hinzufügen und etwas weiterbraten, danach in die Schüssel"
+    ],[
+      "Schwarze Bohnen zerkleinern und dazugeben"
+    ],[
+      "Reis dazugeben"
+    ],[
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Naturtofu"
+      },
+      "zerkleinern und hinzufügen"
+    ],[
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Worcestershire Sauce"
+      },
+      " und ",
+      {
+        "menge": 75,
+        "einheit": "g",
+        "name": "Mehl oder Haferflocken"
+      },
+      " dazugeben, alles gut vermengen, evtl. mehr Mehl oder Haferflocken dazugeben"
+    ]
+  ]
+},{
+  "name": "Vegane Béchamelsauce",
+  "kategorien": "Sauce",
+  "portionen": 1,
+  "links": [
+    "https://www.gutekueche.de/vegane-bechamelsauce-rezept-4368"
+  ],
+  "bild": "vegane-bechamelsauce.jpg",
+  "steps": [
+    [
+      "zunächst ",
+      {
+        "menge": 75,
+        "einheit": "g",
+        "name": "Margarine"
+      },
+      " in einen Topf geben und bei mittlerer Temperatur schmelzen"
+    ],
+    [
+      {
+        "menge": 75,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " darüberstäuben und unter Rühren mit einem flachen Schneebesen hell anschwitzen"
+    ],[
+      {
+        "menge": 500,
+        "einheit": "ml",
+        "name": "pflanzliche Milch"
+      },
+      " und ",
+      {
+        "menge": 250,
+        "einheit": "ml",
+        "name": "Gemüsebrühe"
+      },
+      " nach und nach angießen"
+    ],
+    "die Mehlschwitze während dieser Zeit permanent rühren und die Sauce etwa 5 Minuten lang bis zur gewünschten Konsistenz leicht köcheln lassen",
+    [
+      "anschließend die Sauce mit ",
+      {
+        "menge": 1,
+        "einheit": "Prise",
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Msp",
+        "name": "Pfeffer"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Msp",
+        "name": "Pfeffer"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Spritzer",
+        "name": "Zitrone"
+      },
+      " ",
+      {
+        "menge": "oder"
+      },
+      " ",
+      {
+        "menge": 1,
+        "einheit": "Schluck",
+        "name": "Weißwein"
+      },
+      " abschmecken"
+    ]
+  ]
+},{
+  "name": "Vegetarische Lasagne",
+  "kategorien": "Hauptgericht",
+  "steps": [
+    [
+      {
+        "menge": 1,
+        "name": "Vegane Bolognese",
+        "reference": {
+          "name": "Vegane Bolognese",
+          "portionen": 4
+        }
+      }
+    ],[
+      {
+        "menge": 1,
+        "name": "Vegane Béchamelsauce",
+        "reference": {
+          "name": "Vegane Béchamelsauce",
+          "portionen": 1
+        }
+      }
+    ],[
+      "die Saucen abwechselnd zwischen ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Lasagne-Platten"
+      },
+      " schichten"
+    ]
+  ]
+},{
+  "name": "Linseneintopf",
+  "kategorien": "Hauptgericht",
+  "portionen": 4,
+  "bild": "linsensuppe.jpg",
+  "steps": [
+    [
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Linsen"
+      },
+      " kochen"
+    ],[
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Kartoffeln"
+      },
+      " würfeln und kochen"
+    ],[
+      {
+        "menge": 3,
+        "name": "Zwiebel(n)"
+      },
+      " würfeln und anbraten"
+    ],[
+      {
+        "menge": 1,
+        "name": "Lauch"
+      },
+      " in Scheiben schneiden"
+    ],[
+      "alles zusammen mit ",
+      {
+        "menge": 1,
+        "einheit": "l",
+        "name": "Gemüsebrühe"
+      },
+      " aufkochen"
+    ],[
+      "mit ",
+      {
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Essig"
+      },
+      ", ",
+      {
+        "menge": 3,
+        "einheit": "EL",
+        "name": "Senf"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Pfeffer"
+      },
+      " abschmecken"
+    ]
+  ]
+},{
+  "name": "Linsencurry",
+  "kategorien": "Hauptgericht",
+  "bild": "linsencurry.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/3228051480254449/Linsencurry-mit-Mango-und-Kokos.html"
+  ],
+  "portionen": 4,
+  "steps": [
+    [
+      {
+        "menge": 1,
+        "name": "Knoblauchzehen"
+      },
+      " und ",
+      {
+        "menge": 15,
+        "einheit": "g",
+        "name": "Ingwer"
+      },
+      " sehr fein hacken, ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "Zwiebeln"
+      },
+      " und ",
+      {
+        "menge": 80,
+        "einheit": "g",
+        "name": "Karotten"
+      },
+      " würfeln und anschwitzen"
+    ],[
+      {
+        "menge": 300,
+        "einheit": "g",
+        "name": "rote Linsen"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Currypulver"
+      },
+      ", ",
+      {
+        "menge": 0.5,
+        "einheit": "TL",
+        "name": "Kreuzkümmel"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Kurkuma"
+      },
+      " dazugeben und kurz mit anschwitzen"
+    ],[
+      "mit ",
+      {
+        "menge": 400,
+        "einheit": "ml",
+        "name": "Gemüsebrühe"
+      },
+      " ablöschen und ",
+      {
+        "menge": 400,
+        "einheit": "ml",
+        "name": "Kokosmilch"
+      },
+      " dazugeben und ca. 10 Minuten bei geringer Hitze köcheln lassen"
+    ],[
+      "mit ",
+      {
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "name": "Pfeffer"
+      },
+      " abschmecken"
+    ],[
+      {
+        "menge": 2,
+        "name": "Mangos"
+      },
+      " schälen, vom Kern lösen und in Würfel schneiden"
+    ],[
+      "die Hälfte von je ",
+      {
+        "menge": 80,
+        "einheit": "g",
+        "name": "Kokosflocken"
+      },
+      " und gehackt ",
+      {
+        "menge": 1,
+        "einheit": "Bund",
+        "name": "Petersilie"
+      },
+      " dazugeben und die andere Hälfte zum Servieren verwenden"
+    ]
+  ]
+},{
+  "name": "Ofengemüse",
+  "kategorien": ["Hauptgericht", "Beilage"],
+  "steps": [
+    [
+      {
+        "name": "Kartoffeln"
+      }
+    ]
+  ]
+},{
+  "name": "Ofengemüse Baharat",
+  "kategorien": ["Hauptgericht", "Beilage"],
+  "gruppen": ["Zitronensaft"],
+  "steps": [
+    [
+      {
+        "menge": 1,
+        "name": "Blumenkohl"
+      },
+      " blanchieren und in Röschen teilen"
+    ],[
+      {
+        "menge": 1,
+        "name": "Aubergine"
+      },
+      ", ",
+      {
+        "menge": 2,
+        "name": "Zucchini"
+      },
+      " und ",
+      {
+        "menge": 4,
+        "name": "Kartoffeln"
+      },
+      " in Streifen schneiden"
+    ],[
+      "Gemüse jeweils mit ",
+      {
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "name": "Pfeffer"
+      },
+      " und ",
+      {
+        "name": "Baharat"
+      },
+      " anbraten"
+    ],
+    "in einer Auflaufform schichten: Aubergine, Kartoffel, Blumenkohl und Zucchini",
+    "zusätzlich mit Baharat würzen",
+    "halbe Stunde bei 200 °C in Backofen",
+    [
+      "vor dem Servieren mit ",
+      {
+        "gruppe": "Zitronensaft",
+        "mengeMin": 40,
+        "mengeMax": 50,
+        "einheit": "ml",
+        "name": "Zitronensaft"
+      },{
+        "gruppe": "Zitronensaft",
+        "menge": "oder"
+      },
+      " mit Saft von ",
+      {
+        "gruppe": "Zitronensaft",
+        "menge": 0.5,
+        "name": "Zitrone"
+      },
+      " beträufen"
+    ]
+  ]
+},{
+  "name": "Kräuterquark",
+  "kategorien": ["Dip", "Beilage"],
+  "bild": "kraeuterquark.jpg",
+  "todo": "",
+  "steps": [
+    [{"name": "Quark"}],
+    [{"name": "Joghurt"}],
+    [{"name": "Sahne"}],
+    [{"name": "Schnittlauch"}],
+    [{"name": "rote Zwiebeln"}],
+    [{"name": "Knoblauch"}],
+    [{"name": "Salz"}],
+    [{"name": "Pfeffer"}],
+    [{"name": "Paprikapulver"}],
+    [{"name": "Paprika"}],
+    [{"name": "Rosmarin"}],
+    [{"name": "Petersilie"}],
+    [{"name": "Dill"}],
+    [{"name": "Gewürzgurken"}],
+    [{"name": "Zitrone"}],
+    [{"name": "Limette"}]
+  ]
+},{
+  "name": "Nussecken",
+  "kategorien": "Gebäck"
+},{
+  "name": "Gebrannte Mandeln",
+  "kategorien": "Gebäck",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1005281205736432/Gebrannte-Mandeln.html"
+  ],
+  "bild": "gebrannte-mandeln.jpg",
+  "steps": [
+    [
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      " und ",
+      {
+        "menge": 20,
+        "einheit": "g",
+        "name": "Vanillezucker"
+      },
+      " in ",
+      {
+        "menge": 100,
+        "einheit": "ml",
+        "name": "Wasser"
+      },
+      " auflösen und zum Kochen bringen"
+    ],[
+      {
+        "mengeMin": 0,
+        "mengeMax": 3,
+        "einheit": "EL",
+        "name": "Zimt"
+      },
+      " dazugeben"
+    ],[
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Mandeln"
+      },
+      " hinzugeben bis Zucker trocken ist"
+    ],
+    "Flamme auf niedrig bis mittel stellen",
+    "rühren bis Zucker karamelisiert",
+    [
+      "Mandeln auf einem Backblech mit Gabeln voneinander trenenn"
+    ]
+  ]
+},{
+  "name": "Cantuccini",
+  "kategorien": "Gebäck",
+  "links": [
+    "https://www.chefkoch.de/rezepte/29141007476938/Cantuccini.html"
+  ],
+  "bild": "cantuccini.jpg",
+  "steps": [
+    [
+      {
+        "menge": 25,
+        "einheit": "g",
+        "name": "Butter"
+      },
+      " aufschlagen und ",
+      {
+        "menge": 2,
+        "name": "Ei(er)"
+      },
+      " und ",
+      {
+        "menge": 180,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      " dazugeben "
+    ],[
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Backpulver"
+      },
+      ", ",
+      {
+        "menge": 2,
+        "einheit": "Pck",
+        "name": "Vanillezucker"
+      },
+      ", ",
+      {
+        "menge": 0.5,
+        "name": "Bittermandelaroma (Fläschchen)"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Prise(n)",
+        "name": "Salz"
+      },
+      " hinzufügen"
+    ],[
+      {
+        "menge": 175,
+        "einheit": "g",
+        "name": "Mandeln"
+      },
+      " untermischen"
+    ],
+    "Teig 30 Minuten kaltstellen",
+    "25cm lange Rollen formen",
+    "10-15 Minuten bei 200 °C backen",
+    "erkalten lassen und in Stücke schneiden",
+    "8-10 Minuten bei 200 °C backen (bis goldbraun)"
+  ]
+},{
+  "name": "Grünkohl",
+  "kategorien": ["Hauptgericht", "Suppe"],
+  "bild": "gruenkohl.jpg",
+  "steps": [
+    [
+      {
+        "menge": 1,
+        "einheit": "kg",
+        "name": "Kartoffeln"
+      },
+      " schälen, würfeln und kochen"
+    ],[
+      "warten bis Kartoffeln gar sind"
+    ],[
+      "separat ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Zwiebel(n)"
+      },
+      " würfeln und anbraten"
+    ],[
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Grünkohl (Glas)"
+      },
+      ", gekochte Kartoffeln, ",
+      {
+        "menge": 400,
+        "einheit": "ml",
+        "name": "Brühe"
+      },
+      " und ",
+      {
+        "mengeMin": 50,
+        "mengeMax": 75,
+        "einheit": "g",
+        "name": "Senf"
+      },
+      " dazugeben"
+    ],[
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Räuchertofu"
+      },
+      " anbraten und dazugeben"
+    ],[
+      "mit ",
+      {
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "name": "Pfeffer"
+      },
+      " abschmecken"
+    ],[
+      "15 Minuten kochen"
+    ]
+  ]
+},{
+  "name": "Kartoffelgratin",
+  "kategorien": "Hauptgericht"
+},{
+  "name": "Kürbissuppe",
+  "kategorien": "Suppe"
+},{
+  "name": "Apfelkuchen",
+  "kategorien": "Gebäck",
+  "portionen": 4,
+  "bild": "supersaftiger-apfelkuchen.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1140221220253617/Supersaftiger-Apfelkuchen.html"
+  ],
+  "steps": [
+    [
+      "aus ",
+      {
+        "menge": 125,
+        "einheit": "g",
+        "name": "Margarine oder Butter"
+      },
+      ", ",
+      {
+        "menge": 125,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      ", ",
+      {
+        "menge": 3,
+        "name": "Ei(er)"
+      },
+      ", ",
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " und ",
+      {
+        "menge": 0.5,
+        "einheit": "Pck",
+        "name": "Backpulver"
+      },
+      " einen Rührteig herstellen"
+    ],
+    [
+      {
+        "menge": 1,
+        "einheit": "kg",
+        "name": "Äpfel"
+      },
+      " in große Stücke schneiden und unter den Teig heben"
+    ],
+    "das Ganze dann in eine gefettete Springform geben und etwas glätten",
+    "im vorgeheizten Backofen bei 200 °C Ober-/Unterhitze auf der unteren Schiene ca. 50 bis 55 Minuten backen",
+    [
+      "nach 45 Minuten mit viel Butter bestreichen und mit ",
+      {
+        "menge": 50,
+        "einheit": "g",
+        "name": "Zucker oder Zimtzucker"
+      },
+      " bestreuen"
+    ],
+    "falls der Kuchen schon früher braun werden sollte, den Kuchen einfach für die restliche Backzeit mit Backpapier abdecken"
+  ]
+},{
+  "name": "Käsekuchen",
+  "kategorien": "Gebäck",
+  "bild": "kaesekuchen.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1218391227356456/Der-beste-Kaesekuchen-der-Welt.html"
+  ],
+  "gruppen": ["Teig", "Füllung"],
+  "steps": [
+    [
+      {
+        "gruppe": "Teig",
+        "menge": 75,
+        "einheit": "g",
+        "name": "Margarine"
+      },
+      ", ",
+      {
+        "gruppe": "Teig",
+        "menge": 75,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      ", ",
+      {
+        "gruppe": "Teig",
+        "menge": 1,
+        "name": "Ei(er)"
+      },
+      ", ",
+      {
+        "gruppe": "Teig",
+        "menge": 200,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " und ",
+      {
+        "gruppe": "Teig",
+        "menge": 0.5,
+        "einheit": "Pck",
+        "name": "Backpulver"
+      },
+      " in eine Schüssel geben, zu einem Knetteig zusammenkneten und zur Seite stellen"
+    ],
+    [
+      "für die Füllung ",
+      {
+        "menge": 125,
+        "einheit": "g",
+        "name": "Margarine",
+        "gruppe": "Füllung"
+      },
+      ", ",
+      {
+        "menge": 225,
+        "einheit": "g",
+        "name": "Zucker",
+        "gruppe": "Füllung"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Pck",
+        "name": "Vanillezucker",
+        "gruppe": "Füllung"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Pck",
+        "name": "Vanillepuddingpulver",
+        "gruppe": "Füllung"
+      },
+      " und ",
+      {
+        "menge": 3,
+        "name": "Ei(er)",
+        "gruppe": "Füllung"
+      },
+      " in einer Schüssel verrühren"
+    ],
+    [
+      "dann ",
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Quark",
+        "gruppe": "Füllung"
+      },
+      " und die ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "saure Sahne",
+        "gruppe": "Füllung"
+      },
+      " untermischen, ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "süße Sahne",
+        "gruppe": "Füllung"
+      },
+      " steif schlagen und unterheben"
+    ],
+    "den Backofen auf 180 °C Ober-/Unterhitze vorheizen",
+    "den Knetteig in einer gefetteten 26er Springform auslegen, etwa 2 - 3 cm am Rand hochziehen",
+    "nun die Füllung in die Form geben, glatt streichen und im heißen Backofen 1 Stunde backen",
+    "den Kuchen erst nach dem völligen Erkalten aus der Form nehmen, da unmittelbar nach dem Herausnehmen aus dem Backofen die Konsistenz der Quarkmasse noch zu weich ist."
+  ]
+},{
+  "name": "Kürbis-Schoko-Kuchen",
+  "kategorien": "Gebäck",
+  "bild": "kuerbis-schoko-kuchen.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/594291159101370/Hildes-Kuerbis-Schoko-Kuchen.html"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 175,
+        "einheit": "g",
+        "name": "Margarine"
+      },
+      ", ",
+      {
+        "menge": 125,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      ", ",
+      {
+        "menge": 4,
+        "name": "Ei(er)"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Pck",
+        "name": "Vanillezucker"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Zimt"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Msp",
+        "name": "Nelke und Ingwer"
+      },
+      " zu einer Schaummasse verrühren"
+    ],[
+      {
+        "menge": 225,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " mit dem ",
+      {
+        "menge": 0.5,
+        "einheit": "Pck",
+        "name": "Backpulver"
+      },
+      " vermischen und dazugeben"
+    ],[
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Haselnüsse (gemahlen)"
+      },
+      ", ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "Schokolade (geraspelt)"
+      },
+      " und ",
+      {
+        "menge": 300,
+        "einheit": "g",
+        "name": "Kürbis (geraspelt)"
+      },
+      " unterheben"
+    ],[
+      "falls der Teig zu fest ist, ggf. ",
+      {
+        "menge": "etwas",
+        "name": "Milch"
+      },
+      " zufügen"
+    ],
+    "in eine Kuchenform (Kastenform oder auch eine Springform...) füllen",
+    "bei 175 °C ca. 60 Minuten im vorgeheiztem Backofen backen",
+    "nach dem Erkalten ggf. mit Schokoglasur überziehen"
+  ]
+},{
+  "name": "Nusskuchen",
+  "kategorien": "Gebäck",
+  "bild": "nusskuchen.webp",
+  "steps": [
+    [
+      {
+        "menge": 350,
+        "einheit": "g",
+        "name": "Margarine"
+      },
+      " weichschlagen"
+    ],[
+      {
+        "menge": 375,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      " und ",
+      {
+        "menge": 5,
+        "name": "Ei(er)"
+      },
+      " dazugeben"
+    ],[
+      {
+        "menge": 125,
+        "einheit": "g",
+        "name": "Kartoffelmehl"
+      },
+      ", ",
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      ", ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "Nüsse"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "Pckg.",
+        "name": "Backpulver"
+      },
+      " unterrühren"
+    ],
+    "bei 180 °C ca. 70 Minuten backen",
+    [
+      "nach dem Erkalten ggf. mit ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Zartbitterschokolade"
+      },
+      " überziehen"
+    ]
+  ]
+},{
+  "name": "Waldfrucht-Smoothie",
+  "kategorien": "Smoothie",
+  "steps": [
+    [{
+      "menge": 100,
+      "einheit": "g",
+      "name": "Waldfrüchte"
+    }],[{
+      "menge": 100,
+      "einheit": "ml",
+      "name": "Milch"
+    }],[{
+      "menge": 50,
+      "einheit": "g",
+      "name": "Haferflocken"
+    }]
+  ]
+},{
+  "name": "Hummus",
+  "kategorien": "Dip",
+  "bild": "hummus.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1220881227513212/Hummus-bi-Tahina.html",
+    "https://www.chefkoch.de/rezepte/1574081264949444/Merceiles-Hummus-auf-tuerkische-Art.html",
+    "https://www.chefkoch.de/rezepte/2409581380640280/Hummus-mit-getrockneten-Tomaten.html"
+  ],
+  "gruppen": ["Curry", "getrocknete Tomaten"],
+  "steps": [
+    [
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Kichererbsen",
+        "notiz": "aus der Dose"
+      },{
+        "menge": "oder"
+      },{
+        "menge": 100,
+        "einheit": "g",
+        "name": "Kichererbsen",
+        "notiz": "roh und getrocknet"
+      }
+    ],[{
+      "menge": 1,
+      "einheit": "EL",
+      "name": "Tahin"
+    }],[{
+      "mengeMin": 1,
+      "mengeMax": 10,
+      "einheit": "EL",
+      "name": "Zitronensaft"
+    }],[{
+      "menge": 2,
+      "einheit": "TL",
+      "name": "Olivenöl"
+    }],[{
+      "mengeMin": 2,
+      "mengeMax": 5,
+      "name": "Knoblauchzehe(n)"
+    }],[{
+      "menge": 1,
+      "einheit": "TL",
+      "name": "Salz"
+    }],
+    "Curry-Variante",
+    [{
+      "gruppe": "Curry",
+      "menge": 1,
+      "einheit": "EL",
+      "name": "Kreuzkümmel"
+    }],[{
+      "gruppe": "Curry",
+      "menge": 1,
+      "einheit": "TL",
+      "name": "Curry"
+    }],[{
+      "gruppe": "Curry",
+      "menge": 1,
+      "einheit": "TL",
+      "name": "Paprika rosenscharf"
+    }],[{
+      "gruppe": "Curry",
+      "menge": 1,
+      "einheit": "TL",
+      "name": "Paprika edelsüß"
+    }],[{
+      "gruppe": "Curry",
+      "menge": 1,
+      "name": "Chillischote",
+      "notiz": "gehackt"
+    }],
+    "Getrocknete-Tomaten-Variante",
+    [{
+      "gruppe": "getrocknete Tomaten",
+      "menge": 200,
+      "einheit": "g",
+      "name": "getrocknete Tomaten"
+    }],[{
+      "gruppe": "getrocknete Tomaten",
+      "menge": 1,
+      "einheit": "handvoll",
+      "name": "Basilikum"
+    }],[{
+      "gruppe": "getrocknete Tomaten",
+      "name": "Paprikapulver"
+    }]
+  ]
+},{
+  "name": "Vollkornbrot",
+  "kategorien": "Brot",
+  "bild": "vollkornbrot.jpg",
+  "steps": [
+    [
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Dinkelvollkornmehl"
+      },
+      ", ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "Kerne",
+        "notiz": "gemischte nach Wahl z.B. Kürbiskerne, Leinsamen, Sonnenblumenkerne etc."
+      },
+      ", ",
+      {
+        "menge": 500,
+        "einheit": "ml",
+        "name": "Wasser"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "Würfel",
+        "name": "Hefe"
+      },
+      ", ",
+      {
+        "menge": 2,
+        "einheit": "TL",
+        "name": "Salz"
+      },
+      " und ",
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Obstessig"
+      },
+      " in dieser Reihenfolge zu einem Teig verarbeiten"
+    ],
+    "in eine Karstenform füllen",
+    "die Form in den klaten Backofen stellen und 60 Minuten bei 200 °C backen"
+  ]
+},{
+  "name": "Brot",
+  "kategorien": "Brot"
+},{
+  "name": "Billa-Brot",
+  "kategorien": "Brot",
+  "bild": "billa-brot.jpg",
+  "links": [
+    "https://www.backenmitchristina.at/rezepte/bergsteigerbrot/"
+  ]
+},{
+  "name": "Karottenbrot",
+  "kategorien": "Brot"
+},{
+  "name": "Kartoffelbrot",
+  "kategorien": "Brot"
+},{
+  "name": "Kürbisbrot",
+  "kategorien": "Brot"
+},{
+  "name": "Brokkoli-Kartoffel Auflauf",
+  "kategorien": "Hauptgericht",
+  "bild": "kartoffel-brokkoli-auflauf.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/2365691375701643/Kartoffel-Brokkoli-Auflauf.html"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 1,
+        "einheit": "l",
+        "name": "Gemüsebrühe"
+      },
+      " zum Kochen bringen"
+    ],
+      {
+        "menge": 750,
+        "einheit": "g",
+        "name": "Kartoffeln"
+      },
+      "schälen und würfeln, und in die Brühe hineingeben und halbe Stunde kochen und herausnehmen"
+    ,[
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Brokkoli"
+      },
+      " in kleine Röschen schneiden und viertel Stunde in Brühe kochen"
+    ],[
+      {
+        "menge": 1,
+        "name": "Zwiebel(n)"
+      },
+      " würfeln und anbraten"
+    ],[
+      "mit ",
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Margarine"
+      },
+      " und ",
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Mehl"
+      },
+      " Mehlschwitze machen und etwas von der Brühe und ",
+      {
+        "menge": 250,
+        "einheit": "ml",
+        "name": "Sahne"
+      },
+      " dazugeben"
+    ],[
+      "Sauce mit ",
+      {
+        "name": "Muskat"
+      },
+      ", ",
+      {
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "name": "Pfeffer"
+      },
+      ", ",
+      {
+        "name": "Paprikapulver"
+      },
+      " und ",
+      {
+        "name": "Chillipulver"
+      },
+      " abschmecken"
+    ],[
+      "erst Gemüse, dann Sauce in Auflaufform geben und mit ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "geriebener Gouda"
+      },
+      " bedecken"
+    ],
+    "bei 180° 25 Minuten backen"
+  ]
+},{
+  "name": "Mürbeteig",
+  "kategorien": "Teig",
+  "steps": [
+    {
+      "menge": 200,
+      "einheit": "g",
+      "name": "Mehl"
+    },{
+      "menge": 125,
+      "einheit": "g",
+      "n]ame": "Butter"
+    },{
+      "menge": 1,
+      "einheit": "TL",
+      "n]ame": "Salz"
+    },{
+      "menge": 1,
+      "name": "Ei(er)"
+    }
+  ]
+},{
+  "name": "Spinat Quiche",
+  "kategorien": "Hauptgericht",
+  "bild": "quiche-mit-spinat.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/2801401432239694/Quiche-mit-Spinat-Feta-Tomaten-und-Pinienkernen.html"
+  ],
+  "steps": [
+    {
+      "menge": 1,
+      "name": "Mürbeteig",
+      "reference": {
+        "name": "Mürbeteig"
+      },
+      "notiz": "ggf. 1/4 vom Mehl durch gemahlene Mandeln ersetzen"
+    },{
+      "menge": 300,
+      "einheit": "g",
+      "name": "oder Blätterteig"
+    },{
+      "menge": 50,
+      "einheit": "g",
+      "name": "Zwiebel(n)"
+    },{
+      "menge": 40,
+      "einheit": "g",
+      "name": "Pinienkerne"
+    },{
+      "menge": 50,
+      "einheit": "g",
+      "name": "Cocktailtomaten"
+    },{
+      "menge": 3,
+      "name": "Ei(er)"
+    },{
+      "menge": 50,
+      "einheit": "g",
+      "name": "geriebener Gouda"
+    },{
+      "menge": 200,
+      "einheit": "g",
+      "name": "Feta"
+    },{
+      "menge": 2,
+      "name": "Knoblauchzehe(n)"
+    },{
+      "name": "Salz"
+    },{
+      "name": "Pfeffer"
+    },{
+      "name": "Muskat"
+    }
+  ]
+},{
+  "name": "Asia Wokgemüse",
+  "kategorien": "Hauptgericht",
+  "bild": "wokgemuese.jpg",
+  "steps": [
+    {
+      "name": "Karotten"
+    },{
+      "name": "Zwiebeln"
+    },{
+      "name": "Mungobohnen"
+    },{
+      "name": "Bambus"
+    },{
+      "name": "Lauchzwiebeln"
+    },{
+      "name": "Paprika"
+    },{
+      "name": "Brokkoli"
+    },{
+      "name": "(Räucher-)Tofu"
+    },{
+      "name": "Champignons"
+    },{
+      "name": "Brechbohnen"
+    }
+  ],
+  "related": [
+    {"name": "Reis"},
+    {"name": "Mie-Nudeln"},
+    {"name": "Reisnudeln"},
+    {"name": "Soja-Sauce"},
+    {"reference": "Erdnuss-Sauce"},
+    {"reference": "Soja-Limetten-Sauce"},
+    {"reference": "Süß-Sauer-Sauce"},
+    {"reference": "Thai-Curry-Sauce"}
+  ]
+},{
+  "name": "Champignon-Sauce",
+  "kategorien": "Sauce",
+  "bild": "champignonsauce.jpg",
+  "related": [{"name": "Nudeln"}],
+  "steps": [
+    {
+      "menge": 500,
+      "einheit": "g",
+      "name": "Champignons"
+    },{
+      "menge": 250,
+      "einheit": "ml",
+      "name": "Sahne"
+    },{
+      "menge": 250,
+      "einheit": "ml",
+      "name": "Brühe"
+    },{
+      "menge": 150,
+      "einheit": "g",
+      "name": "Zwiebeln"
+    },{
+      "name": "Salz"
+    },{
+      "name": "Pfeffer"
+    }
+  ]
+},{
+  "name": "Käse-Sahne-Sauce",
+  "kategorien": "Sauce",
+  "bild": "kaese-sahne-sauce.jpg",
+  "steps": [
+    {
+      "menge": 250,
+      "einheit": "ml",
+      "name": "Sahne"
+    },{
+      "menge": 100,
+      "einheit": "g",
+      "name": "Frischkäse"
+    },{
+      "menge": 50,
+      "einheit": "g",
+      "name": "Parmesan"
+    },{
+      "name": "Salz"
+    },{
+      "name": "Pfeffer"
+    }
+  ]
+},{
+  "name": "Tomatensauce (italienisch)",
+  "kategorien": "Sauce"
+},{
+  "name": "Tomatensauce (indisch)",
+  "kategorien": "Sauce"
+},{
+  "name": "Erdnuss-Curry-Sauce",
+  "kategorien": "Sauce",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1320181236816286/Wokgemuese-mit-Erdnusssosse-und-Scampi.html",
+    "https://www.thaizeit.de/r/best-of-thai-food-27-panang-curry-kaeng-phanaeng",
+    "https://asiastreetfood.com/rezept/panang-curry-aus-thailand/"
+  ],
+  "steps": [
+    {
+      "menge": 200,
+      "einheit": "ml",
+      "name": "Gemüsebrühe"
+    },{
+      "menge": 200,
+      "einheit": "ml",
+      "name": "Kokosmilch"
+    },{
+      "menge": 3,
+      "einheit": "EL",
+      "name": "Sojasauce"
+    },{
+      "menge": 1,
+      "einheit": "TL",
+      "name": "Kurkuma"
+    },{
+      "menge": 1,
+      "einheit": "Msp",
+      "name": "Chillipulver"
+    },{
+      "menge": 1,
+      "einheit": "EL",
+      "name": "Thai-Currypulver"
+    },{
+      "menge": 2,
+      "einheit": "EL",
+      "name": "Erdnussbutter"
+    },{
+      "name": "Speisestärke"
+    }
+  ]
+},{
+  "name": "Erdnuss-Sauce",
+  "kategorien": "Sauce",
+  "bild": "erdnusssauce.jpg",
+  "links": ["https://www.chefkoch.de/rezepte/2478191390075956/Pikante-Erdnusssauce.html"],
+  "steps": [
+    [
+      {
+        "menge": 4,
+        "einheit": "EL",
+        "name": "Erdnussbutter"
+      },
+      " erhitzen"
+    ],[
+      {
+        "menge": 150,
+        "einheit": "ml",
+        "name": "Milch"
+      },
+      " dazugeben und verrühren"
+    ],[
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Sojasauce"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "TL",
+        "name": "Sambal Oelek"
+      },
+      " und ",
+      {
+        "menge": 2,
+        "einheit": "TL",
+        "name": "Honig"
+      },
+      " hinzufügen"
+    ]
+  ]
+},{
+  "name": "Thai-Curry-Sauce",
+  "kategorien": "Sauce"
+},{
+  "name": "Soja-Limetten-Sauce",
+  "kategorien": "Sauce"
+},{
+  "name": "Süß-Sauer-Sauce",
+  "kategorien": "Sauce"
+},{
+  "name": "Müsli",
+  "kategorien": "Gebäck"
+},{
+  "name": "Rote Linsen-Curry mit Süßkartoffeln",
+  "links": [
+    "https://www.chefkoch.de/rezepte/3023041455110341/Rote-Linsen-Curry-mit-Suesskartoffeln.html"
+  ]
+},{
+  "name": "Öl-Teig",
+  "kategorien": "Teig",
+  "steps": [
+    {
+      "menge": 2,
+      "einheit": "EL",
+      "name": "Öl"
+    },{
+      "menge": 125,
+      "einheit": "ml",
+      "name": "Wasser"
+    },{
+      "menge": 1,
+      "einheit": "Prise",
+      "name": "Salz"
+    },{
+      "menge": 250,
+      "einheit": "g",
+      "name": "Mehl"
+    }
+  ]
+},{
+  "name": "Flammkuchen",
+  "kategorien": "Hauptgericht",
+  "bild": "flammkuchen.jpg",
+  "links": ["https://www.chefkoch.de/rezepte/1248831229862746/Flammkuchen-mit-Ziegenkaese-Rosmarin-und-Honig.html"],
+  "gruppen": [ "Feta-Flammkuchen", "Tofu-Flammkuchen" ],
+  "steps": [
+    {
+      "menge": 1,
+      "name": "Öl-Teig",
+      "reference": {
+        "name": "Öl-Teig"
+      }
+    },{
+      "menge": 200,
+      "einheit": "g",
+      "name": "Schmand"
+    },{
+      "menge": 3,
+      "name": "Zwiebel(n)"
+    },{
+      "gruppe": "Tofu-Flammkuchen",
+      "menge": 200,
+      "einheit": "g",
+      "name": "Räuchertofu"
+    },{
+      "gruppe": "Feta-Flammkuchen",
+      "menge": 200,
+      "einheit": "g",
+      "name": "Feta"
+    },{
+      "gruppe": "Feta-Flammkuchen",
+      "menge": 3,
+      "einheit": "EL",
+      "name": "Rosmarin"
+    },{
+      "gruppe": "Feta-Flammkuchen",
+      "menge": 2,
+      "einheit": "EL",
+      "name": "Honig"
+    }
+  ]
+},{
+  "name": "Linsen-Dal",
+  "kategorien": "Hauptgericht",
+  "links": [
+    "https://www.chefkoch.de/rezepte/3023041455110341/Rote-Linsen-Curry-mit-Suesskartoffeln.html"
+  ]
+},{
+  "name": "Champignon-Risotto",
+  "kategorien": "Hauptgericht",
+  "portionen": 6,
+  "bild": "champignon-risotto.jpg",
+  "gruppen": ["zum Servieren"],
+  "steps":[
+    [
+      {
+        "menge": 1.5,
+        "einheit": "l",
+        "name": "Gemüsebrühe"
+      },
+      " und ",
+      {
+        "menge": 0.5,
+        "einheit": "l",
+        "name": "Weißwein"
+      },
+      " aufkochen und bei schwacher Hitze warm halten"
+    ],[
+      {
+        "menge": 2,
+        "einheit": "EL",
+        "name": "Olivenöl"
+      },
+      " und ",
+      {
+        "menge": 60,
+        "einheit": "g",
+        "name": "Butter"
+      },
+      " erhitzen und ",
+      {
+        "menge": 1,
+        "name": "Lauch (Stange)"
+      },
+      " 4 Minuten braten"
+    ],[
+      "für 5 Minuten ",
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Champignons"
+      },
+      " hinzugeben"
+    ],[
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Risotto-Reis"
+      },
+      " unterrühren"
+    ],[
+      "bei mittlerer Hitze ",
+      {
+        "menge": 125,
+        "einheit": "ml",
+        "name": "Brühe-Wein",
+        "displayInZutaten": false
+      },
+      " hinzufügen und ständig rühren bis Flüssigkeit aufgesogen ist"
+    ],[
+      "wiederholen bis Gemüsebrühe aufgebraucht ist (20-25) Minuten"
+    ],[
+      {
+        "menge": 75,
+        "einheit": "g",
+        "name": "Parmesan"
+      },
+      " und ",
+      {
+        "menge": 3,
+        "einheit": "EL",
+        "name": "glatte Petersilie (gehackt)"
+      },
+      " unter Risotto mischen"
+    ],[
+      "mit ",
+      {
+        "gruppe": "zum Servieren",
+        "name": "Balsamico-Essig"
+      },
+      ", ",
+      {
+        "gruppe": "zum Servieren",
+        "name": "gehobelter Parmesan"
+      },
+      " und ",
+      {
+        "gruppe": "zum Servieren",
+        "name": "glatte Petersilie"
+      },
+      " servieren"
+    ]
+  ]
+},{
+  "name": "Nudelauflauf",
+  "kategorien": "Hauptgericht",
+  "links": [
+    "https://www.chefkoch.de/rezepte/2352371374010722/Cremiger-Nudelauflauf-mit-Tomaten-und-Mozzarella.html",
+    "https://www.chefkoch.de/rezepte/2737891426025016/Gyros-Nudelauflauf-in-Metaxasosse.html"
+  ]
+},{
+  "name": "Tagliatelle mit Zitronen-Basilikum-Sauce",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1685951276846671/Tagliatelle-mit-Zitronen-Basilikum-Sauce.html"
+  ]
+},{
+  "name": "Saftiger Kürbis-Gnocchi-Auflauf",
+  "kategorien": "Hauptgericht",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1953131317830499/Saftiger-Kuerbis-Gnocchi-Auflauf.html"
+  ]
+},{
+  "name": "Rote Beete Linsen Salat",
+  "kategorien": "Salat",
+  "links": [
+    "https://www.chefkoch.de/rezepte/2995931452430804/Rote-Linsen-Salat-mit-Roter-Bete.html"
+  ]
+},{
+  "name": "Rote Beete Feld-Salat",
+  "kategorien": "Salat"
+},{
+  "name": "Tiramisu",
+  "kategorien": "Desert",
+  "bild": "tiramisu.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/323461114392341/Tiramisu.html"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 4,
+        "name": "Eigelb"
+      },
+      ", ",
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Puderzucker"
+      },
+      " und ",
+      {
+        "menge": 2,
+        "einheit": "cl",
+        "name": "Amaretto"
+      },
+      " cremig rühren"
+    ],[
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Mascarpone"
+      },
+      " unterheben"
+    ],[
+      {
+        "mengeMin": 2,
+        "mengeMax": 4,
+        "name": "Eiweiß"
+      },
+      " steif schlagen und unterheben"
+    ],[
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Löffelbuskuit"
+      },
+      " mit ",
+      {
+        "mengeMin": 125,
+        "mengeMax": 250,
+        "einheit": "ml",
+        "name": "Espresso oder starker Kaffee"
+      },
+      " tränken"
+    ],
+    "4 Lagen schichten: Beginnen mit Biskuits, dann Mascarponecreme, Biskuits und wieder Mascarponecreme.",
+    [
+      "mit ",
+      {
+        "mengeMin": 3,
+        "mengeMax": 6,
+        "einheit": "El",
+        "name": "Kakao",
+        "notiz": "dunkel"
+      },
+      " bestäuben und kühl stellen"
+    ]
+  ]
+},{
+  "name": "Waffeln",
+  "kategorien": "Desert",
+  "steps": [
+    {
+      "menge": 125,
+      "einheit": "g",
+      "name": "Margarine"
+    },{
+      "menge": 50,
+      "einheit": "g",
+      "name": "Zucker"
+    },{
+      "menge": 1,
+      "name": "Vanillezucker"
+    },{
+      "mengeMin": 2,
+      "mengeMax": 3,
+      "name": "Ei(er)"
+    },{
+      "menge": 250,
+      "einheit": "ml",
+      "name": "Milch"
+    },{
+      "menge": 250,
+      "einheit": "g",
+      "name": "Mehl"
+    },{
+      "menge": 5,
+      "einheit": "g",
+      "name": "Backpulver"
+    },{
+      "menge": 1,
+      "einheit": "Prise",
+      "name": "Salz"
+    }
+  ]
+},{
+  "name": "Pizzateig",
+  "kategorien": "Hauptgericht",
+  "portionen": 4,
+  "bild": "pizzateig.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/1151011221381450/Der-beste-Pizzateig.html"
+  ],
+  "steps": [
+    [
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " und ",
+      {
+        "menge": 2,
+        "einheit": "TL",
+        "name": "Salz"
+      },
+      "Mehl und Salz sieben"
+    ],[
+      {
+        "menge": 5,
+        "einheit": "g",
+        "name": "Frischhefe"
+      },
+      " in lauwarmen ",
+      {
+        "menge": 300,
+        "einheit": "ml",
+        "name": "Wasser"
+      },
+      " auflösen und zum Mehl-Salz-Gemisch geben"
+    ],
+    "20 Minuten (elektrisch) kneten",
+    "mit einem feuchten Tuch abdecken und zwei Stunden ruhen lassen",
+    [ 
+      "anschließend in ",
+      {
+        "menge": 4,
+        "displayInZutaten": false
+      },
+      " Stücke zu je 200 g teilen, diese zu Kugeln formen und wieder abgedeckt weitere sechs Stunden gehen lassen."
+    ]
+  ]
+},{
+  "name": "Brownies",
+  "kategorien": "Gebäck",
+  "bild": "brownies.jpg",
+  "links": [
+    "https://www.chefkoch.de/rezepte/487591142901360/American-Double-Choc-Brownies.html?portionen=3",
+    "https://www.chefkoch.de/rezepte/724381175161425/Chewy-Brownies.html?portionen=32"
+  ],
+  "gruppen": ["Glasur"],
+  "steps": [
+    [
+      "jeweils ",
+      {
+        "menge": 600,
+        "einheit": "g",
+        "name": "Zartbitterschokolade"
+      },
+      " und ",
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Butter"
+      },
+      " schmelzen und danach vermengen"
+    ],[
+      {
+        "menge": 400,
+        "einheit": "g",
+        "name": "Zucker"
+      },
+      " und ",
+      {
+        "menge": 8,
+        "name": "Ei(er)"
+      },
+      " schaumig rühren"
+    ],[
+      "beides vermengen"
+    ],[
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      ", ",
+      {
+        "menge": 6,
+        "einheit": "EL",
+        "name": "Kakaopulver"
+      },
+      ", ",
+      {
+        "menge": 1.5,
+        "einheit": "TL",
+        "name": "Backpulver"
+      },
+      " und ",
+      {
+        "menge": 0.5,
+        "einheit": "TL",
+        "name": "Salz"
+      },
+      " vermischen"
+    ],[
+      "beides vermengen"
+    ],[
+      {
+        "menge": 300,
+        "einheit": "g",
+        "name": "Walnüsse (gehackt)"
+      },
+      " dazugeben"
+    ],[
+      "bei 180 °C (Umluft) ca. 30-40 Minuten backen"
+    ],[
+      {
+        "gruppe": "Glasur",
+        "menge": 100,
+        "einheit": "g",
+        "name": "Zartbitterschokolade"
+      },
+      " schmelzen und über die Brownies streichen"
+    ]
+  ]
+},{
+  "name": "Käse-Lauch-Suppe",
+  "kategorien": "Suppe",
+  "portionen": 6,
+  "bild": "kaese-lauch-suppe.jpg",
+  "steps": [
+    [
+      {
+        "menge": 4,
+        "name": "Zwiebel(n)"
+      },
+      " würfeln und anbraten"
+    ],[
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Champignons"
+      },
+      " würfeln schneiden und anbraten"
+    ],[
+      {
+        "menge": 4,
+        "name": "Lauch"
+      },
+      " in Scheiben schneiden und dazugeben"
+    ],[
+      {
+        "menge": 0.5,
+        "einheit": "l",
+        "name": "Gemüsebrühe"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "einheit": "l",
+        "name": "Wasser"
+      },
+      " dazugeben"
+    ],[
+      {
+        "menge": 300,
+        "einheit": "g",
+        "name": "Sahne-Schmelzkäse"
+      },
+      ", ",
+      {
+        "menge": 300,
+        "einheit": "g",
+        "name": "Kräuter-Schmelzkäse"
+      },
+      " und ",
+      {
+        "menge": 250,
+        "einheit": "ml",
+        "name": "Weißwein"
+      },
+      " einrühren"
+    ],[
+      "mit ",
+      {
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "name": "Pfeffer"
+      },
+      ", ",
+      {
+        "name": "Paprikapulver"
+      },
+      " und  ",
+      {
+        "name": "Currypulver"
+      },
+      " abschmecken"
+    ]
+  ]
+},{
+  "name": "Zwiebelsuppe",
+  "kategorien": "Suppe",
+  "portionen": 4,
+  "bild": "zwiebel-suppe.jpg",
+  "steps": [
+    [
+      {
+        "menge": 6,
+        "name": "Zwiebel(n)"
+      },
+      " in Ringe schneiden und anrösten und etwas ",
+      {
+        "name": "Salz"
+      },
+      " hinzufügen"
+    ],[
+      {
+        "menge": 1,
+        "einheit": "EL",
+        "name": "Mehl"
+      },
+      " hereinrühren"
+    ],[
+      "mit ",
+      {
+        "menge": 200,
+        "einheit": "ml",
+        "name": "Cognac"
+      },
+      " ablöschen"
+    ],[
+      {
+        "mengeMin": 250,
+        "mengeMax": 500,
+        "einheit": "ml",
+        "name": "Weißwein"
+      },
+      " dazugeben"
+    ],[
+      "mit ",
+      {
+        "menge": 1,
+        "einheit": "l",
+        "name": "Wasser"
+      },
+      " auffüllen"
+    ],[
+      "20 Minuten kochen"
+    ],[
+      "etwas ",
+      {
+        "name": "Pfeffer"
+      },
+      " hinzugeben"
+    ]
+  ]
+},{
+  "name": "Kartoffelsuppe",
+  "kategorien": "Suppe",
+  "portionen": 8,
+  "bild": "kartoffel-suppe.jpg",
+  "steps": [
+    {
+      "menge": 0.5,
+      "name": "Sellerie"
+    },{
+      "menge": 1,
+      "einheit": "kg",
+      "name": "Kartoffeln"
+    },{
+      "menge": 0.5,
+      "einheit": "kg",
+      "name": "Karotten"
+    },{
+      "menge": 0.5,
+      "einheit": "kg",
+      "name": "Lauch"
+    },{
+      "menge": 1,
+      "einheit": "kg",
+      "name": "Kartoffeln"
+    },{
+      "menge": 4,
+      "name": "Zwiebel(n)"
+    },{
+      "menge": 1,
+      "einheit": "l",
+      "name": "Brühe"
+    },{
+      "name": "Majoran"
+    },
+    "alles kochen und pürieren"
+  ]
+},{
+  "name": "Nudelsalat",
+  "kategorien": ["Beilage", "Salat"]
+},{
+  "name": "Kartoffelsalat",
+  "kategorien": ["Beilage", "Salat"]
+},{
+  "name": "Struwen",
+  "kategorien": "Desert"
+},{
+  "name": "vegetarisches Pastel de Choclo",
+  "kategorien": "Hauptgericht",
+  "portionen": 10,
+  "bild": "pastel-de-choclo.jpg",
+  "gruppen": ["Fleischersatz", "Mais"],
+  "steps": [
+    [
+      "für den Fleischersatz",
+      {
+        "menge": 5,
+        "name": "Zwiebel(n)",
+        "gruppe": "Fleischersatz"
+      },
+      " anbraten"
+    ],[
+      {
+        "menge": 1,
+        "einheit": "kg",
+        "name": "Veggie-Hack",
+        "gruppe": "Fleischersatz"
+      },
+      " dazugeben und mit ",
+      {
+        "menge": 10,
+        "einheit": "TL",
+        "name": "Paprika edelsüß",
+        "gruppe": "Fleischersatz"
+      },
+      ", ",
+      {
+        "name": "Salz",
+        "gruppe": "Fleischersatz"
+      },
+      " und ",
+      {
+        "name": "Pfeffer",
+        "gruppe": "Fleischersatz"
+      },
+      " würzen"
+    ],[
+      {
+        "menge": "2",
+        "name": "Knoblauchzehe(n)",
+        "gruppe": "Fleischersatz"
+      },
+      " und ",
+      {
+        "menge": 100,
+        "einheit": "g",
+        "name": "Rosinen",
+        "gruppe": "Fleischersatz"
+      },
+      " dazugeben"
+    ],[
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Polenta",
+        "gruppe": "Mais"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "l",
+        "name": "Milch",
+        "gruppe": "Mais"
+      },
+      ", ",
+      {
+        "menge": 1,
+        "einheit": "l",
+        "name": "Wasser",
+        "gruppe": "Mais"
+      },
+      " und ",
+      {
+        "menge": 450,
+        "einheit": "g",
+        "name": "Mais",
+        "gruppe": "Mais"
+      },
+      " zu einem Maisbrei aufkochen"
+    ],[
+      "mit ",
+      {
+        "mengeMin": 1,
+        "mengeMax": 2,
+        "einheit": "TL",
+        "name": "Salz",
+        "gruppe": "Mais"
+      },
+      " und ",
+      {
+        "menge": 3,
+        "einheit": "EL",
+        "name": "Basilikum",
+        "gruppe": "Mais"
+      },
+      " würzen"
+    ],
+    "in Auflaufform schichten",
+    "Fleischersatz",
+    "ggf. Eier",
+    "ggf. Oliven",
+    "Polenta",
+    [
+      {
+        "mengeMin": 1,
+        "mengeMax": 2,
+        "einheit": "TL",
+        "name": "Zucker"
+      },
+      " darüberstreuen"
+    ],
+    "bei 180 °C ca. 45 Minuten backen"
+  ]
+},{
+  "name": "Gemüse-Quiche",
+  "kategorien": "Hauptgericht",
+  "bild": "gemuesequiche.jpg",
+  "steps": [
+    [
+      {
+        "menge": 500,
+        "einheit": "g",
+        "name": "Mürbeteig",
+        "reference": {
+          "name": "Mürbeteig",
+          "portionen": 1.5
+        }
+      },
+      " zubereiten"
+    ],[
+      {
+        "menge": 1,
+        "name": "Zwiebel(n)"
+      },
+      " anbraten"
+    ],[
+      {
+        "menge": 300,
+        "einheit": "g",
+        "name": "Karotten"
+      },
+      ", ",
+      {
+        "menge": 2,
+        "name": "Paprika (rot und grün)"
+      },
+      " und ",
+      {
+        "menge": 1,
+        "name": "Brokkoli"
+      },
+      " mit anbraten"
+    ],[
+      "mit ",
+      {
+        "menge": 250,
+        "einheit": "ml",
+        "name": "Gemüsebrühe"
+      },
+      " ablöschen und 7 Minuten kochen"
+    ],[
+      {
+        "menge": 1,
+        "name": "Lauch"
+      },
+      " dazugeben undd weitere 5 Minuten garen"
+    ],
+    "Gemüse abtropfen lassen und in Mürbeteig geben",
+    [
+      {
+        "menge": 3,
+        "name": "Ei(er)"
+      },
+      " und ",
+      {
+        "menge": 200,
+        "einheit": "g",
+        "name": "Schmand"
+      },
+      "vermischen und darüber verteilen"
+    ],[
+      {
+        "name": "Salz"
+      },{
+        "name": "Pfeffer"
+      },{
+        "name": "Muskatnuss"
+      }
+    ],
+    "bei 220 °C 30 Minuten backen"
+  ]
+},{
+  "name": "Käsestangen",
+  "kategorien": "Fingerfood",
+  "bild": "todo.jpg",
+  "steps": [
+    [
+      {
+        "menge": 180,
+        "einheit": "g",
+        "name": "Gruyère-Käse"
+      },
+      ", ",
+      {
+        "menge": 150,
+        "einheit": "g",
+        "name": "Butter"
+      },
+      ", ",
+      {
+        "menge": 100,
+        "einheit": "ml",
+        "name": "Sahne"
+      },
+      ", ",
+      {
+        "menge": 0.5,
+        "einheit": "TL",
+        "name": "Salz"
+      },
+      ", ",
+      {
+        "menge": 0.5,
+        "einheit": "TL",
+        "name": "Backpulver"
+      },
+      " und ",
+      {
+        "menge": 250,
+        "einheit": "g",
+        "name": "Mehl"
+      },
+      " zu einem Knetteig verarbeiten"
+    ],
+    "1 bis 2 Stunden ruhen lassen",
+    "Teig ausrollen (nicht zu dünn) und in Streifen schneiden",
+    "Mit einer Eigelb-Sahne-Mischung bestreichen und nach Belieben mit Kümmel, Fleur de Sel, Sesam, Schwarzkümmel o. ä. bestreuen",
+    "auf ein mit Backpapier ausgelegten Blech legen",
+    "bei 180 °C ca. 10 Minuten backen"
+  ]
+}]
